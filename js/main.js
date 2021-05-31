@@ -45,7 +45,7 @@ $(document).ready(() => {
         slidesToScroll: 3,
         asNavFor: '.fries-wrap .products',
         dots: false,
-        centerMode: true,
+        centerMode: false,
         infinite: false,
         focusOnSelect: true
     });
